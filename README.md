@@ -1,6 +1,6 @@
 # SLAM_Lib
 
-*Collection of SLAM materials*
+*A collection of SLAM materials, which are all extracted online from various sources.*
 
 ## SLAM介绍
 
