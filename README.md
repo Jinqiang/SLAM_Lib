@@ -8,6 +8,7 @@
 2. 中文SLAM索引 [SLAMCN](http://www.slamcn.org/index.php)
 3. Source Code [openslam](http://openslam.org)
 4. [学习SLAM需要哪些预备知识？](https://www.zhihu.com/question/35186064)
+5. [2017年10月开源SLAM汇总](https://www.cnblogs.com/Jessica-jie/p/7719359.html)
 
 ## Paper
 1. [跟踪SLAM前沿动态](https://github.com/YiChenCityU/Recent_SLAM_Research), 精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。
