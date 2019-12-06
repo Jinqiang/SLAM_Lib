@@ -35,7 +35,9 @@
 
 ### Laser SLAM
 1. 谷歌slam地图库 [cartographer的源码注释](https://github.com/slam-code/cartographer) ，[关于cartographer的源码分析](https://github.com/slam-code/SLAM/tree/master/9-cartographer-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
-
+	* 基于图优化的SLAM算法
+	* 比较完善的匹配系统，包含建图和定位
+	* 目前效果最好的开源激光SLAM系统
 2. [BLAM](https://github.com/erik-nelson/blam), B(erkeley) L(ocalization) A(nd) M(apping). [安装使用教程](https://blog.csdn.net/xmy306538517/article/details/81122663) on CSDN.  程序介绍见 
 [开源激光SLAM项目BLAM-1](https://blog.csdn.net/Adam_996/article/details/81303505) .[开源激光SLAM项目BLAM-2](https://blog.csdn.net/Adam_996/article/details/82256435)
 
