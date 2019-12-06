@@ -36,6 +36,13 @@
 ### Laser SLAM
 1. 谷歌slam地图库 [cartographer的源码注释](https://github.com/slam-code/cartographer) ，[关于cartographer的源码分析](https://github.com/slam-code/SLAM/tree/master/9-cartographer-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 
+2. [BLAM](https://github.com/erik-nelson/blam), B(erkeley) L(ocalization) A(nd) M(apping). [安装使用教程](https://blog.csdn.net/xmy306538517/article/details/81122663) on CSDN.  程序介绍见 
+[开源激光SLAM项目BLAM-1](https://blog.csdn.net/Adam_996/article/details/81303505) .[开源激光SLAM项目BLAM-2](https://blog.csdn.net/Adam_996/article/details/82256435)
+
+3. LOAM-纯激光，匀速运动假设，无回环。
+4. V-LOAM-视觉激光融合、漂移匀速假设，无回环。
+5. VELO-视觉激光融合，无运动畸变假设，有回环
+
 
 ### Visual SLAM
 
